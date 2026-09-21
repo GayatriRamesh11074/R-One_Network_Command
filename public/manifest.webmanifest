@@ -1,0 +1,12 @@
+{
+  "name": "R-One Network Command",
+  "short_name": "R-One Command",
+  "description": "Interactive EV charging operations challenges.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fa",
+  "theme_color": "#e72d54",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

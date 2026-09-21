@@ -1,0 +1,1 @@
+ALTER TABLE `game_results` ADD `role` text DEFAULT 'CPO' NOT NULL;

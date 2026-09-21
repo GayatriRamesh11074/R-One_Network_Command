@@ -1,0 +1,1 @@
+ALTER TABLE `game_results` ADD `company` text DEFAULT '' NOT NULL;
