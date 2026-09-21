@@ -4,6 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
 
 # Player results currently use the Cloudflare D1 API route. Replace that API
 # with a Netlify Function backed by Netlify Blobs or an external database
